@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adityalad-25
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LIKDEIN PROFILE:- https://www.linkedin.com/in/aditya-lad-609586226
 
 <!---
