@@ -8,6 +8,13 @@ I am a Student and Web Developer facilitating the world with User Experience wit
 👯 Team player.
 
 👨‍💻 Check my website <a href="https://adityalad-25.github.io/portfolio/" rel="nofollow">Adityalad.com</a>
+
+
+ ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Adityalad-25)
+
+ ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)
+
+
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
