@@ -7,7 +7,7 @@ I am a Student and Web Developer facilitating the world with User Experience wit
 
 👯 Team player.
 
-👨‍💻 Check my website <a href="https://adityalad-25.github.io/portfolio/" rel="nofollow">Adityalad.com</a>
+👨‍💻 Check my website <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
 
 
  ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Adityalad-25)
