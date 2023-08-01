@@ -10,9 +10,11 @@ I am a Student and Web Developer facilitating the world with User Experience wit
 👨‍💻 Check my website <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
 
 
- ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Adityalad-25)
+ ### :fire: My Stats :
 
- ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityalad-25&theme=dark)](https://git.io/streak-stats)
+ 
+![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)
 
 
 ### Tech & Tools Preference
