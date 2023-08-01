@@ -3,9 +3,12 @@
 </div> 
 
 ### Hey Aditya here 👋
-I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
+ 🔸I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
-👯 Team player.
+🚀 Eager to collaborate and contribute as a team player to innovative projects. 
+
+🌐 Seeking opportunities to apply my skills and grow in the tech industry.
+
 
 👨‍💻 Check my website <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
 
