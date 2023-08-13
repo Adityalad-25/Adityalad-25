@@ -1,10 +1,13 @@
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30%" height="30%"/>
+  <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">EAT -&gt; CODE -&gt; SLEEP -&gt; REPEAT</p>
+
 </div> 
 
 
+
 ### Hey Aditya here 👋    
-![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151) 
 
  🔸I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
@@ -14,8 +17,9 @@
 
 
 👨‍💻 Check my website <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
-
+<br/>
 ### 🔥 My Stats
+
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%; padding-right: 10px;">
@@ -32,7 +36,7 @@
 </table>
 
 
-
+<br/>
 
 
 
