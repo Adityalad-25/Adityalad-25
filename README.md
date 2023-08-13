@@ -2,7 +2,9 @@
   <img src= "https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30%" height="30%"/>
 </div> 
 
-### Hey Aditya here 👋
+### Hey Aditya here 👋    
+![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)
+
  🔸I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
 🚀 Eager to collaborate and contribute as a team player to innovative projects. 
@@ -15,9 +17,13 @@
 
  ### :fire: My Stats :
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityalad-25&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityalad-25&theme=dark)](https://git.io/streak-stats)
  
-![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)
+
+
+
 
 
 ### Tech & Tools Preference
