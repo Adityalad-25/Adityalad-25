@@ -38,7 +38,7 @@
 
 <br/>
 
-
+[![Adityalad-25's GitHub | Stats](https://stats.quine.sh/Adityalad-25/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adityalad-25)
 
 
 ### Tech & Tools Preference
