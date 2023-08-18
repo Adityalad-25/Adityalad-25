@@ -1,9 +1,9 @@
 <div id="header" align="center" >
 <!--  <img src= "https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30%" height="30%"/> -->
    <img src="https://github.com/Adityalad-25/Adityalad-25/assets/97255480/c153c585-5dcd-489a-ac66-ac84912b69a6)" width="20%" height="10%"/>
+   
   <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">
-    
-    EAT -> CODE -> SLEEP -> REPEAT
+     EAT -> CODE -> SLEEP -> REPEAT
   </p>
    
 
