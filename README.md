@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30%" height="30%"/>
-  <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">EAT -&gt; CODE -&gt; SLEEP -&gt; REPEAT</p>
+  <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">
+    
+    EAT -> CODE -> SLEEP -> REPEAT
+  </p>
 
 </div> 
 
