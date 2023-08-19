@@ -24,7 +24,7 @@
 🌐 Seeking opportunities to apply my skills and grow in the tech industry.
 
 
-👨‍💻 Check my website <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
+🌐 Explore my website at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
 <br/>
 ### 🔥 My Stats
 
