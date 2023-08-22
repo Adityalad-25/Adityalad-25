@@ -128,7 +128,9 @@
   <!-- <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 </div>
 
-![Snake Graph](https://github.com/Spyware007/Spyware007/blob/main/github-user-contribution.svg)
+
+<br>
+
+Leave a ⭐  [Here](https://github.com/adityalad-25/adityalad-25) if you like 😁
 
 
-Leave a ⭐ from [here](https://github.com/adityalad-25/adityalad-25) if you like 😁
