@@ -128,8 +128,10 @@
   <!-- <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 </div>
 
-
 <br>
+
+
+![Snake animation](https://github.com/adityalad-25/adityalad-25/blob/output/github-contribution-grid-snake.svg)
 
 Leave a ⭐  [Here](https://github.com/adityalad-25/adityalad-25) if you like 😁
 
