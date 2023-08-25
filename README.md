@@ -5,7 +5,7 @@
   <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">
      EAT -> CODE -> SLEEP -> REPEAT
      <br>
-     🌐 Explore my website at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
+   
 
 
   </p>
@@ -18,9 +18,11 @@
 ### Hey Aditya here 👋    
 ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151) 
 
- 🔸I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
+👨‍💻 I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
 🚀 Eager to collaborate and contribute as a team player to innovative projects. 
+
+☘️ Checkout my Portfolio at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
 
 🌐 Seeking opportunities to apply my skills and grow in the tech industry.
 
