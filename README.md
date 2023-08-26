@@ -5,12 +5,7 @@
   <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">
      EAT -> CODE -> SLEEP -> REPEAT
      <br>
-   
-
-
-  </p>
-   
-
+     </p>
 </div> 
 
 
