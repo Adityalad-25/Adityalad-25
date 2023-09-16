@@ -4,14 +4,19 @@
    
   <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">
      EAT -> CODE -> SLEEP -> REPEAT
-     <br>
-     </p>
+   <br>
+    <h1> Hello ! Aditya here 👋  </h1>
+   <br>
+   
+   ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)  
+  <br>
+ </p>
 </div> 
 
 
 
-### Hey Aditya here 👋    
-![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151) 
+  
+
 
 👨‍💻 Pre-Final Year Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
