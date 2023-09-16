@@ -13,7 +13,7 @@
 ### Hey Aditya here 👋    
 ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151) 
 
-👨‍💻 I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
+👨‍💻 Pre-Final Year Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
 🚀 Eager to collaborate and contribute as a team player to innovative projects. 
 
