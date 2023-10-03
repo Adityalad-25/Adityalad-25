@@ -13,11 +13,6 @@
  </p>
 </div> 
 
-
-
-  
-
-
 👨‍💻 Pre-Final Year Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
 🚀 Eager to collaborate and contribute as a team player to innovative projects. 
