@@ -17,7 +17,7 @@
 
 🚀 Eager to collaborate and contribute as a team player to innovative projects. 
 
-☘️ Checkout my Portfolio at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
+☘️ Checkout my Portfolio at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">https://adityalad-25.github.io/portfoliowebsite/</a>
 
 🌐 Seeking opportunities to apply my skills and grow in the tech industry.
 
