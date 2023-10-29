@@ -11,6 +11,7 @@
    ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)  
   <br>
  </p>
+ 
 </div> 
 
 👨‍💻 Pre-Final Year Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
