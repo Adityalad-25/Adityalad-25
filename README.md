@@ -8,7 +8,7 @@
     <h1> Hello ! Aditya here 👋  </h1>
    <br>
    
-   ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)  
+  ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)  
   <br>
  </p>
  
@@ -32,10 +32,10 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-  <img
+<!--   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  /> -->
 </picture>
 
 # Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
