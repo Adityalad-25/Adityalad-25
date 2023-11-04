@@ -145,7 +145,6 @@
 <br>
 
 
-![Snake animation](https://github.com/adityalad-25/adityalad-25/blob/output/github-contribution-grid-snake.svg)
 
 Leave a ⭐  [Here](https://github.com/adityalad-25/adityalad-25) if you like 😁
 
