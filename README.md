@@ -72,7 +72,7 @@
 <br/>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;;">
+<div style="display: flex; justify-content: place-evenly;">
     <img src="https://github-readme-stats.vercel.app/api?username=adityalad-25&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityalad-25&theme=dark&hide_border=false" alt="GitHub Streak" />
 
