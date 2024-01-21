@@ -3,24 +3,27 @@
 <!-- <img width="610" alt="Screenshot 2023-08-19 at 12 27 18 PM" src="https://github.com/Adityalad-25/Adityalad-25/assets/97255480/510981f4-a1a0-48d2-ae4b-c64bdd4d1999"> -->
    
   <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">
-     EAT -> CODE -> SLEEP -> REPEAT
+
+   EAT -> CODE -> SLEEP -> REPEAT
+   
    <br>
     <h1> Hello ! Aditya here 👋  </h1>
    <br>
    
   ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)  
   <br>
+  Open Source 🚀 <br/>
+  Full Stack Developer (MERN) <br/>
+  
+  ☘️ Checkout my Portfolio at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">AdityaLad_Portfolio</a>
+
  </p>
  
 </div> 
 
-👨‍💻 Pre-Final Year Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
-🚀 Eager to collaborate and contribute as a team player to innovative projects. 
 
-☘️ Checkout my Portfolio at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">https://adityalad-25.github.io/portfoliowebsite/</a>
 
-🌐 Seeking opportunities to apply my skills and grow in the tech industry.
 
 
 <picture>
@@ -72,25 +75,9 @@
 
 <br/>
 
-### 🔥 My Stats
+# 🔥 My Stats
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%; padding-right: 10px;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityalad-25&layout=compact" alt="Top Langs" style="width: 100%; height: 100%;">
-      </a>
-    </td>
-    <td style="width: 50%; padding-left: 10px;">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityalad-25&theme=dark" alt="GitHub Streak" style="width: 100%; height: 100%;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<br/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=adityalad-25&" alt="adityalad-25" />
 
 
 
