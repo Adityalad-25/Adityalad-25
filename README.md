@@ -8,12 +8,13 @@
   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/adityalad-25)
 
   <br>
-  Open Source 🚀 <br/>
+  Open Source 🚀 || Computer Vision 🧿 <br/>
   Full Stack Developer (MERN) <br/>
   
-  ☘️ Checkout my Portfolio at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">AdityaLad_Portfolio</a>
-
- </p>
+  ☘️ Checkout my Portfolio : <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow"> (Click Here)</a>
+  <br/>
+  
+ 
  
 </div> 
 
