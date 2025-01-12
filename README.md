@@ -55,15 +55,18 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Spyware007 twitter style="margin-bottom: 5px;" />
 </a>
 
+
+<!--
 <a href="https://adityalad2003.hashnode.dev/" target="_blank">
 <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt=Spyware hashnode style="margin-bottom:5px;">
 </a>
+/> -->
 
 <a href="mailto:adityalad2003@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/adi_tya.jsx/" target="_blank">
+<a href="https://www.instagram.com/adi_tya.lad/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Spyware007 Instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/adi.lad.18294?mibextid=ZbWKwL" target="_blank">
